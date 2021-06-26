@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "editor.fontSize": 24,
+        "workbench.colorTheme": "Default Dark+",
+        "editor.lineHeight": 36
+    }
+}
